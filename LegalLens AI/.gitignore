@@ -1,0 +1,4 @@
+# Backend Environment and Python files
+backend/.env
+backend/venv/
+backend/__pycache__/
